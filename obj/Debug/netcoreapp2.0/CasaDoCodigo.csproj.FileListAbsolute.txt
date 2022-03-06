@@ -1,0 +1,17 @@
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.AssemblyReference.cache
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\moise\Desktop\PROJETOS\ASPNETCore20-d600b45421b0a9599455c164024fda51c66a685e\Aulas\Aula3\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
