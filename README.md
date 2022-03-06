@@ -5,7 +5,7 @@ Este site possui algumas páginas com funções que são desenvolvidas durante o
 
 Carrosel:
 O carrossel é a página inicial da CasaDoCodigo, apresenta uma lista de livros que o usuário pode adicionar ao carrinho.
-![alt text](https://i.imgur.com/mnHN8kv.jpeg)
+![alt text]()
 Carrinho:
 O carrinho é responsável por utilizar os itens que são armazenados por meio da Session, e apresentá-los dando o valor final.
 ![alt text](http://url/to/img.png)
