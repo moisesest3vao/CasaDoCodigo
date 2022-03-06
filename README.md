@@ -18,3 +18,4 @@ Resumo:
 Página que apresenta o resumo final da compra, com o endereço de entrega e valor final da compra.
 ![alt text](https://i.imgur.com/FUy0ww8.png)
 
+Projeto não finalizado, em desenvolvimento.
